@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:1-109:12
+MERGED from [com.android.support:design:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\4001aac7158ae877705183624e623fa9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\e21bbc28c9d09e36b91261da410caa5a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ce1eb02cb8553e3fb25d0764b207faf5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\7d6ddfb6598a45dc58adb41cee955f1f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\29805d1e2b796b628ea3535eb66492fa\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\e40ba5246b065493209eba8ccc9dcd99\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\7e7a2c40557d24686709749e51bf3f43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\6a56ab831dcd6c84b5f9a92dd1e3a7cc\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:design:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\4001aac7158ae877705183624e623fa9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\4001aac7158ae877705183624e623fa9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\e21bbc28c9d09e36b91261da410caa5a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\e21bbc28c9d09e36b91261da410caa5a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ce1eb02cb8553e3fb25d0764b207faf5\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ce1eb02cb8553e3fb25d0764b207faf5\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\7d6ddfb6598a45dc58adb41cee955f1f\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\7d6ddfb6598a45dc58adb41cee955f1f\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\29805d1e2b796b628ea3535eb66492fa\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\29805d1e2b796b628ea3535eb66492fa\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\e40ba5246b065493209eba8ccc9dcd99\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\e40ba5246b065493209eba8ccc9dcd99\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\7e7a2c40557d24686709749e51bf3f43\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\7e7a2c40557d24686709749e51bf3f43\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\6a56ab831dcd6c84b5f9a92dd1e3a7cc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\6a56ab831dcd6c84b5f9a92dd1e3a7cc\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:7:5-47
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\e21bbc28c9d09e36b91261da410caa5a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:11:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:14:9-47
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:17:5-83
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:17:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:18:5-88
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:18:30-85
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:22:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:23:22-69
+android:uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:25:30-77
+application
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:27:5-107:19
+MERGED from [com.android.support:design:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\4001aac7158ae877705183624e623fa9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\4001aac7158ae877705183624e623fa9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\e21bbc28c9d09e36b91261da410caa5a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\e21bbc28c9d09e36b91261da410caa5a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ce1eb02cb8553e3fb25d0764b207faf5\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ce1eb02cb8553e3fb25d0764b207faf5\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\7d6ddfb6598a45dc58adb41cee955f1f\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\7d6ddfb6598a45dc58adb41cee955f1f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\29805d1e2b796b628ea3535eb66492fa\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\29805d1e2b796b628ea3535eb66492fa\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\e40ba5246b065493209eba8ccc9dcd99\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\e40ba5246b065493209eba8ccc9dcd99\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\6a56ab831dcd6c84b5f9a92dd1e3a7cc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\6a56ab831dcd6c84b5f9a92dd1e3a7cc\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:31:9-40
+activity#mx.sounds.inventoryaudit.MainActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:38:27-74
+activity#mx.sounds.inventoryaudit.CapturarActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:41:9-52:20
+	android:parentActivityName
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:44:13-55
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:43:13-60
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:42:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:45:13-47:73
+	android:value
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:47:17-70
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:46:17-63
+meta-data#android.app.default_searchable
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:49:13-51:57
+	android:value
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:51:17-54
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:50:17-62
+activity#mx.sounds.inventoryaudit.ConsultaActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:53:9-60:20
+	android:parentActivityName
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:56:13-55
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:55:13-60
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:54:13-45
+activity#mx.sounds.inventoryaudit.ConsultaTotalesActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:61:9-68:20
+	android:parentActivityName
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:64:13-55
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:63:13-68
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:62:13-52
+activity#mx.sounds.inventoryaudit.SubirFotosActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:69:9-71:66
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:71:13-63
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:70:13-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:76:9-78:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\e40ba5246b065493209eba8ccc9dcd99\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\AGONZALEZ\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\e40ba5246b065493209eba8ccc9dcd99\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:78:13-66
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:77:13-58
+activity#mx.sounds.inventoryaudit.BuscarCodigoActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:80:9-88:20
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:80:19-55
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:81:13-83:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:82:17-71
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:82:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:85:13-87:54
+	android:resource
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:87:17-51
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:86:17-54
+activity#mx.sounds.inventoryaudit.LoginActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:89:9-96:20
+	android:parentActivityName
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:92:13-55
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:91:13-57
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:90:13-42
+activity#mx.sounds.inventoryaudit.ProcDifActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:97:9-105:20
+	android:parentActivityName
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:100:13-55
+	android:label
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:99:13-60
+	android:theme
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:101:13-56
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:98:13-44
+activity#mx.sounds.inventoryaudit.AskGondolaActivity
+ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:106:9-65
+	android:name
+		ADDED from C:\Users\AGONZALEZ\Desktop\InventoryAudit\app\src\main\AndroidManifest.xml:106:19-53

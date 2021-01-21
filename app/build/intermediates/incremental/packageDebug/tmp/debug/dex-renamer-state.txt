@@ -1,0 +1,4 @@
+#Thu Nov 26 17:31:11 MST 2020
+base.0=C\:\\Users\\AGONZALEZ\\Desktop\\InventoryAudit\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

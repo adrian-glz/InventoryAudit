@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_e7374e4c93b8f2f2f4052ca5b07d82411c8fc05b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_35e2d75e0381d662b62acf2bf166b39c1dab9104.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_05e2e87146070c12f51bc2c4ef8594524a9663dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_7231767104d3e75414f2a7a1e42e5d0e62c8a1fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\libs\jtds-1.2.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="47f9b00937707c328eccbcdd38867a799ea91b44">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\jtds-1.2.7_fc7f230aff6e485f536a88e71f14b0a356f12a0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\23.3.0\db7791d75a07fef9844d06236c1c59ba7bf6997c\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_693b15a2a0e1c82562978a688a1beb5e531429c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_b48d6f40402f59b80f6d77194f071e0d9e49a9d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\libs\jvftp.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74dc94f7c9d2f2aa02f17961a4e4788de39b63f5">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\jvftp_0ae266880267a1593dc302818658017b5b4e4e5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_c43b55c747ac8bdacf650e3ad24bad5df958ac7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_00566f66e8ed37ad924f097bdaeba85ad3e8be73.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_2f8b61060870db49f138bd88ccc1f610a454e6ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_8c74939e5abc7fd060d9b907888712ef048cf1de.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\libs\jsch-0.1.49.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ffcaeafe80d9d0d2ae871779e48b084699a9905">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\jsch-0.1.49_82c97ff80c2495eaaee2330e49a0f63de45905d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\libs\commons-codec-1.8.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd">
+        <dex dex="C:\Users\AGONZALEZ\Downloads\InventoryAudit\app\build\intermediates\pre-dexed\debug\commons-codec-1.8_52d8f5387433814b402da30a763fb48290252260.jar" />
+    </item>
+
+</items>
